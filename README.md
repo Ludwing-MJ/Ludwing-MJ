@@ -44,7 +44,7 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/ludwing-mj/)
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ludwing-MJ&theme=radical&locale=es&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ludwing-MJ&theme=radical&locale=es&mode=weekly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludwing-mj&layout=compact&theme=radical)
 
 ---
