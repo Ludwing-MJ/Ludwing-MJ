@@ -38,7 +38,6 @@ Además, disfruto crear materiales didácticos y manuales interactivos usando **
 ## 📫 ¿Quieres contactarme?
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/ludwing-mj/)  
-✉️ ludwing.marroquin@cetegt.org  
 ✉️ jludwing27@gmail.com
 
 ---
